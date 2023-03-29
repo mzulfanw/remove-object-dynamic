@@ -1,0 +1,24 @@
+{
+  "name": "remove-object-dynamic",
+  "version": "1.0.0",
+  "description": "Remove object dynamicly without stress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzulfanw/remove-object-dynamic.git"
+  },
+  "keywords": [
+    "remove",
+    "object",
+    "dynamic"
+  ],
+  "author": "Muhammad Zulfan Wahyudin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mzulfanw/remove-object-dynamic/issues"
+  },
+  "homepage": "https://github.com/mzulfanw/remove-object-dynamic#readme"
+}
