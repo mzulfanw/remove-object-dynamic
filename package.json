@@ -1,6 +1,6 @@
 {
   "name": "remove-object-dynamic",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Remove object dynamicly without stress",
   "main": "index.js",
   "scripts": {
