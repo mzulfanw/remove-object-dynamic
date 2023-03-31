@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "rootDir": "./",
+    // "rootDir": "",
     "target": "ESNext",
     "module": "ESNext",
     "outDir": "dist",
@@ -8,7 +8,8 @@
     "esModuleInterop": true,
     "moduleResolution": "node",
     "allowJs": true,
-    "declaration": true
+    "declaration": true,
+    "declarationDir": "dist"
   },
   "include": [
     "src/**/*.ts",
@@ -17,6 +18,6 @@
   "exclude": [
     "node_modules",
     "dist",
-    "src/lib/__test__/*.ts"
+    "src/__test__/*.ts"
   ],
 }

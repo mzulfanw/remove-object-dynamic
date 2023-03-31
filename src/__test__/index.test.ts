@@ -1,4 +1,4 @@
-import { removeObjectDynamic } from ".."
+import { removeObjectDynamic } from "../main"
 
 describe('test removeObjectDynamic', () => {
   test(`this payload should return { status: 'Work' }`, () => {
