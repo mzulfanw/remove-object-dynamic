@@ -6,14 +6,17 @@
     "outDir": "dist",
     "strict": true,
     "esModuleInterop": true,
-    "moduleResolution": "node"
+    "moduleResolution": "node",
+    "allowJs": true,
+    "declaration": true
   },
   "include": [
     "src/**/*.ts",
-    "jest.config.ts"
+    // "jest.config.ts"
   ],
   "exclude": [
     "node_modules",
-    "dist"
+    "dist",
+    "src/lib/__test__/*.ts"
   ],
 }

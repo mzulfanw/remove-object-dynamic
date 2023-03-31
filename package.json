@@ -4,6 +4,7 @@
   "description": "Remove object dynamicly without stress",
   "main": "./src/main.ts",
   "type": "module",
+  "typings": "./dist/main.d.ts",
   "scripts": {
     "build": "rollup -c",
     "test": "jest"
