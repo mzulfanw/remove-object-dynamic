@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "rootDir": "./",
+    "target": "ESNext",
+    "module": "ESNext",
+    "outDir": "dist",
+    "strict": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node"
+  },
+  "include": [
+    "src/**/*.ts",
+    "jest.config.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ],
+}
