@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
     // "rootDir": "",
-    "target": "ES2020",
-    "module": "ES2020",
+    "target": "ESNext",
+    "module": "ESNext",
     "outDir": "dist",
     "strict": true,
     "esModuleInterop": true,
