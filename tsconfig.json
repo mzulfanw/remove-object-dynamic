@@ -2,7 +2,7 @@
   "compilerOptions": {
     // "rootDir": "",
     "target": "ESNext",
-    "module": "ESNext",
+    "module": "CommonJS",
     "outDir": "dist",
     "strict": true,
     "esModuleInterop": true,
